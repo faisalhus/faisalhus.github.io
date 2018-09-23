@@ -2,8 +2,28 @@ h1 {
     color: red;
 }
 
-titleBox {
+img{
+    width: 250px;
+    height: auto;
+}
+
+
+
+.titlebox {
     background-color: aquamarine;
     margin: 30px;
     border: 2px solid white;
+}
+
+.listbox{
+    background-color: aquamarine;
+    margin: 15px;
+    border: 1px dotted pink;
+
+}
+
+body{
+    background-color: blanchedalmond;
+    text-align: center;
+    
 }
