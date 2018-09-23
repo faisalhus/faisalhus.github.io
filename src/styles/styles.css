@@ -1,3 +1,9 @@
 h1 {
     color: red;
 }
+
+titleBox {
+    background-color: aquamarine;
+    margin: 30px;
+    border: 2px solid white;
+}
